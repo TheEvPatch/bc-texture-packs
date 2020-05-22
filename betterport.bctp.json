@@ -3,7 +3,7 @@
   "name": "New Port Early",
   "author": "TheEvPatch",
   "date": 1590058371696,
-  "packVersion": "1.0",
+  "packVersion": "1.1",
   "description": "adds the new update with the card game and critterball properly intergrated, kinda.",
   "clientscript": "",
   "index": "",
@@ -365,7 +365,7 @@
   "tavern_nm": "",
   "tavern_server_map": "",
   "tavern_sprites": "",
-  "port_bg": "https://i.imgur.com/P7cLk0j.png",
+  "port_bg": "https://i.imgur.com/X9Yfvad.png",
   "port_fg": "",
   "port_nm": "",
   "port_server_map": "",
@@ -383,5 +383,5 @@
   "player_9": "",
   "player_10": "",
   "date": 1590058371696,
-  "packVersion": "1.0"
+  "packVersion": "1.1"
 }
